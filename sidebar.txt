@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noy:home|Door43 (noy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noy|d43-noy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noy/archive/master.zip|d43-noy.zip]]
+
+**Recent Changes**
+{{changes>ns = noy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noy|Ethnologue data]]
+
